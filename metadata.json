@@ -1,0 +1,6 @@
+{
+  "name": "Celebrio - GenAI Celebration & Event Planner",
+  "description": "Comprehensive GenAI event planning assistant for weddings, birthdays, and community festivals with smart budget allocators, interactive timelines, vendor checklists, and creative vision boards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
